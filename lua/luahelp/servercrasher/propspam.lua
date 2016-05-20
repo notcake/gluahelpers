@@ -1,0 +1,3 @@
+self:CreateConsoleSpamCommand ("SpamPHXProps", "Start Spamming PHX Props", "Stop Spamming PHX Props", "gm_spawn", "models/props_phx/huge/evildisc_corp.mdl")
+self:CreateConsoleSpamCommand ("SpamHL2Props", "Start Spamming HL2 Props", "Stop Spamming HL2 Props", "gm_spawn", "models/props_combine/prison01c.mdl")
+self:CreateConsoleSpamCommand ("SpamBalls", "Start Spamming Bouncy Balls", "Stop Spamming Bouncy Balls", "gm_spawnsent", "sent_ball")

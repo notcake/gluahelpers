@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"        "Lua Helpers"
+	"version"     "None"
+	"author_name" "!cake"
+	"author_url"  ""
+	"info"        "Some lua functions useful for debugging and various shenanigans."
+	"override"    "0"
+}
